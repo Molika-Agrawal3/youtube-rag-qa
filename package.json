@@ -12,7 +12,7 @@
     "@google/genai": "^2.30.0",
     "@pinecone-database/pinecone": "^9.0.0",
     "mongoose": "^9.11.2",
-    "next": "16.4.0",
+    "next": "^16.4.3",
     "next-auth": "^4.24.15",
     "react": "19.3.0",
     "react-dom": "19.3.0",
@@ -21,7 +21,7 @@
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",
     "eslint": "^9",
-    "eslint-config-next": "16.4.0",
+    "eslint-config-next": "^16.4.3",
     "tailwindcss": "^4"
   }
 }
