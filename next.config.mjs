@@ -11,6 +11,8 @@ const nextConfig = {
       },
     },
   },
+  // Load youtubei.js with Node's normal module loader instead of bundling it.
+  serverExternalPackages: ["youtubei.js"],
   images: {
     // next/image only loads external images from hosts listed here.
     // Google profile photos are served from this domain.

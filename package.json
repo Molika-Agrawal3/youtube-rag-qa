@@ -9,11 +9,14 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@google/genai": "^2.30.0",
+    "@pinecone-database/pinecone": "^9.0.0",
     "mongoose": "^9.11.2",
     "next": "16.4.0",
     "next-auth": "^4.24.15",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-dom": "19.3.0",
+    "youtubei.js": "^18.2.0"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",
